@@ -1,0 +1,11 @@
+{
+  "name": "digimon",
+  "version": "1.0.0",
+  "description": "prodigious",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jake",
+  "license": "ISC"
+}

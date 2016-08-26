@@ -1,0 +1,4 @@
+digimon: {
+  type:[free, data, virus, vaccine],
+  level:[training I, training II, rookie, champion, ultimate, mega, armor]
+}
