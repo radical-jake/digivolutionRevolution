@@ -1,0 +1,25 @@
+Rookie {
+  "agumon" : {
+    "dedigivolve" : ["koromon"],
+    "digivole" : ["geogreymon", "greymon", "meramon", "tyranomon", "sukamon"],
+    "type" : "vaccine",
+    "attribute" : ["fire"],
+    "digivolveRequirements" : {
+      "level" : 9,
+      "attack" : 30,
+      "CAM" : "10%"
+    }
+  },
+  "black-agumon" : {
+    "dedigivolve" : ["tsumemon"],
+    "digivole" : ["growlmon", "cyclonemon", "tankmon", "tyranomon", "blue-greymon"],
+    "type" : "virus",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "level" : 8,
+      "attack" : 30
+    }
+  },
+
+
+}

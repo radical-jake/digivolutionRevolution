@@ -1,0 +1,253 @@
+Rookie : {
+  "agumon" : {
+    "number" : 17,
+    "dedigivolve" : ["koromon"],
+    "digivole" : ["geogreymon", "greymon", "meramon", "tyranomon", "sukamon"],
+    "type" : "vaccine",
+    "attribute" : ["fire"],
+    "digivolveRequirements" : {
+      "LV" : 9,
+      "ATK" : 30,
+      "CAM" : "10%"
+    }
+  },
+  "black-agumon" : {
+    "number" : 18,
+    "dedigivolve" : ["tsumemon"],
+    "digivole" : ["growlmon", "cyclonemon", "tankmon", "tyranomon", "blue-greymon"],
+    "type" : "virus",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 8,
+      "ATK" : 30
+    }
+  },
+  "armadillomon" : {
+    "number" : 19,
+    "dedigivolve" : [""],
+    "digivole" : ["ankylomon", "cyclonemon", "goldnumemon", "tankmon", "geremon"],
+    "type" : "free",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 7,
+      "HP" : 75,
+      "DEF" : 20,
+      "CAM" : "10%"
+    }
+  },
+  "impmon" : {
+    "number" : 20,
+    "dedigivolve" : [""],
+    "digivole" : ["bakemon", "ogremon", "socerimon", "black-gatomon", "wizardmon", "icedevimon"],
+    "type" : "virus",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 9,
+      "ATK" : 15,
+      "SPD" : 20
+    }
+  },
+  "elecmon" : {
+    "number" : 21,
+    "dedigivolve" : ["yokomon"],
+    "digivole" : ["garurumon", "leomon", "namimon", "sukamon", "black-garurumon", "geremon"],
+    "type" : "data",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 7,
+      "HP" : 75,
+      "SPD" : 20
+    },
+    "otamamon" : {
+      "number" : 22,
+      "dedigivolve" : ["bukamon"],
+      "digivole" : ["gekomon", "numemon", "seadramon", "shellnumemon"],
+      "type" : "virus",
+      "attribute" : [],
+      "digivolveRequirements" : {
+        "LV" : 8,
+        "INT" : 40
+      }
+    }
+  },
+  "gaomon" : {
+    "number" : 23,
+    "dedigivolve" : ["wanyamon"],
+    "digivole" : ["gargomon", "gaogamon", "leomon", "togamon", "ogremon"],
+    "type" : "data",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 9,
+      "ATK" : 20,
+      "SPD" : 20,
+      "CAM" : "10%"
+    }
+  },
+  "gazimon" : {
+    "number" : 24,
+    "dedigivolve" : ["pagumon"],
+    "digivole" : ["dorugamon", "gaogamon", "leomon", "kurisarimon", "nanimon", "black-garurumon"],
+    "type" : "data",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 9,
+      "ATK" : 15,
+      "SPD" : 20
+    }
+  },
+  "gabumon" : {
+    "number" : 25,
+    "dedigivolve" : ["tsunomon"],
+    "digivole" : ["dorugamon", "garurumon", "numemon", "veedramon", "frigimon"],
+    "type" : "data",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 7,
+      "HP" : 75,
+      "ATK" : 20,
+      "SPD" : 20
+    }
+  },
+  "black-gabumon" : {
+    "number" : 26,
+    "dedigivolve" : ["tsunomon"],
+    "digivole" : ["black-garurumon", "vegiemon", "reppamon", "frigimon"],
+    "type" : "virus",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 6,
+      "HP" : 80,
+      "ATK" : 30,
+      "SPD" : 20,
+      "CAM" : "10%"
+    }
+  },
+  "guilmon" : {
+    "number" : 27,
+    "dedigivolve" : [""],
+    "digivole" : ["geogreymon", "growlmon", "meramon", "tyranomon", "blue-greymon"],
+    "type" : "virus",
+    "attribute" : [],
+    "digivolveRequirements" : {
+    }
+  },
+  "kudamon" : {
+    "number" : 28,
+    "dedigivolve" : ["tsunomon"],
+    "digivole" : ["angemon", "goldnumemon", "peckmon", "reppamon"],
+    "type" : "vaccine",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 8,
+      "INT" : 20,
+      "SPD" : 20
+    }
+  },
+  "keramon" : {
+    "number" : 29,
+    "dedigivolve" : ["tsumemon"],
+    "digivole" : ["bakemon", "kurisarimon", "platinumsukamon", "wizardmon"],
+    "type" : "data",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 9,
+      "ATK" : 20,
+      "SPD" : 20
+    }
+  },
+  "gotsumon" : {
+    "number" : 30,
+    "dedigivolve" : ["motimon"],
+    "digivole" : ["ankylomon", "clockmon", "starmon", "tankmon"],
+    "type" : "data",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 8,
+      "DEF" : 30
+    }
+  },
+  "goblimon" : {
+    "number" : 31,
+    "dedigivolve" : ["tsunomon"],
+    "digivole" : ["gaogamon", "growlmon", "nanimon", "ogremon", "blue-greymon"],
+    "type" : "virus",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 7,
+      "ATK" : 40
+    }
+  },
+  "gomamon" : {
+    "number" : 32,
+    "dedigivolve" : ["bukamon"],
+    "digivole" : ["ankylomon", "ikkakumon", "socerimon", "frigimon"],
+    "type" : "vaccine",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 8,
+      "HP" : 100,
+      "CAM" : "10%"
+    }
+  },
+  "syakomon" : {
+    "number" : 33,
+    "dedigivolve" : ["bukamon"],
+    "digivole" : ["ikkakumon", "shellnumemon", "gekomon", "seadramon"],
+    "type" : "virus",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 7,
+      "DEF" : 15,
+      "INT" : 20
+    }
+  },
+  "solarmon" : {
+    "number" : 34,
+    "dedigivolve" : ["motimon"],
+    "digivole" : ["clockmon", "geremon", "starmon", "meramon"],
+    "type" : "vaccine",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 6,
+      "HP" : 75,
+      "DEF" : 25
+    }
+  },
+  "terriermon" : {
+    "number" : 35,
+    "dedigivolve" : ["nyaromon"],
+    "digivole" : ["gargomon", "ikkakumon", "gatomon", "rapidmon"],
+    "type" : "vaccine",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 8,
+      "SPD" : 30,
+      "CAM" : "10%"
+    }
+  },
+  "tentomon" : {
+    "number" : 36,
+    "dedigivolve" : ["motimon"],
+    "digivole" : ["kabuterimon", "waspmon", "kuwagamon", "stingmon", "sunflowmon"],
+    "type" : "vaccine",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 9,
+      "DEF" : 20,
+      "CAM" : "10%"
+    }
+  },
+  "toyagumon" : {
+    "number" : 37,
+    "dedigivolve" : ["koromon"],
+    "digivole" : ["clockmon", "greymon", "guardromon", "sukamon", "starmon"],
+    "type" : "vaccine",
+    "attribute" : [],
+    "digivolveRequirements" : {
+      "LV" : 8,
+      "HP" : 75,
+      "DEF" : 20
+    }
+  },
+
+}
