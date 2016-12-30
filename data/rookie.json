@@ -1,4 +1,4 @@
-Rookie : {
+"Rookie" : {
   "agumon" : {
     "number" : 17,
     "dedigivolve" : ["koromon"],
@@ -248,6 +248,6 @@ Rookie : {
       "HP" : 75,
       "DEF" : 20
     }
-  },
+  }
 
 }
